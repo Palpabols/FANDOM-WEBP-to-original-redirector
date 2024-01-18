@@ -5,7 +5,7 @@
 // @match       https://static.fandom.nocookie.net/*/images/*/*/*.*/revision/latest?cb=*
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      https://github.com/Palpabols
 // @description // Allows one to automatically get redirected to a FANDOM-hosted WEBP image's original extension.
 // ==/UserScript==
 

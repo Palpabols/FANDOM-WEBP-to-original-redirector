@@ -7,7 +7,7 @@
 // @grant       none
 // @version     1.0
 // @author      https://github.com/Palpabols
-// @description // Allows one to automatically get redirected to a FANDOM-hosted WEBP image's original extension.
+// @description Allows one to automatically get redirected to a FANDOM-hosted WEBP image's original extension.
 // ==/UserScript==
 
 window.location.href = window.location.pathname.replace('/revision/latest', '') + "?format=original";

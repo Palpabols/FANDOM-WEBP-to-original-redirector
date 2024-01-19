@@ -3,6 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://static.wikia.nocookie.net/*/images/*/*/*.*/revision/latest?cb=*
 // @match       https://static.fandom.nocookie.net/*/images/*/*/*.*/revision/latest?cb=*
+// @exclude     https://static.fandom.nocookie.net/*/images/*/*/*.webp/*
 // @grant       none
 // @version     1.0
 // @author      https://github.com/Palpabols
